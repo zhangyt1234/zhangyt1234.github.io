@@ -14,7 +14,7 @@ encoding: "utf-8"
 since: 2024
 # 源码仓库，请替换成自己的
 # repository: mzlogin/mzlogin.github.io
-repository: zhangyt1234/cozy_learns_to_build_website.github.io
+repository: zhangyt1234/zhangyt1234.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
